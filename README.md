@@ -30,8 +30,6 @@
 I design reliable systems using **Laravel**, **Flask/Python**, and **Docker** with cloud deployments on **Azure**.
 I prioritize clarity, performance, and measurable business impact.
 
-*   **Recent achievements:** HeartLine (AI ECG diagnostic assistant), Sifco Inv (Inventory Management), and Schooly (School Management).
-
 ---
 
 ### 🛠️ Tech Stack
@@ -40,8 +38,10 @@ I prioritize clarity, performance, and measurable business impact.
 
 | Backend | Frontend | DevOps & Cloud | AI & Data |
 |:---:|:---:|:---:|:---:|
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) <br> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) <br> ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white) |
-| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) <br> ![Filament](https://img.shields.io/badge/Filament-DA7D4A?style=flat&logo=filament&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) <br> ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) | ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=flat&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 </div>
 
@@ -49,38 +49,114 @@ I prioritize clarity, performance, and measurable business impact.
 
 ### 🏆 Featured Work
 
-| Project | Role & Highlights | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[HeartLine Webapp](https://github.com/blamairia/Hearline-Webapp)** | **Full Stack & AI Lead**<br>• Medical platform with AI-powered ECG analysis.<br>• Deployed on Azure Container Apps with CI/CD. | `Flask` `ONNX` `Azure` `SQL Server` | [📂 Repo](https://github.com/blamairia/Hearline-Webapp) ・ [🔴 Demo](https://heartline-webapp.thankfulwave-7afe5802.germanywestcentral.azurecontainerapps.io) |
-| **[HeartLine AI](https://github.com/blamairia/HeartLine)** | **ML Engineer**<br>• ResNet-34 model for 12-lead ECG classification.<br>• **94% Accuracy** on CPSC2018 dataset. | `Python` `Keras` `WFDB` `ONNX` | [📂 Repo](https://github.com/blamairia/HeartLine) |
-| **[Schooly V2](https://github.com/blamairia/schooly-v2)** | **Lead Backend Engineer**<br>• Managing admins & fees for **3,000+ students**.<br>• Complex partial payment & installment logic. | `Laravel` `Filament` `MySQL` | [📂 Repo](https://github.com/blamairia/schooly-v2) ・ [🔴 Demo](https://schooly-v2.thankfulwave-7afe5802.germanywestcentral.azurecontainerapps.io) |
-| **[Sifco Inv](https://github.com/blamairia/Sifco-Inv)** | **Solution Architect**<br>• Inventory system delivered in **30 Days**.<br>• Gathered requirements from factory owners. | `Laravel` `Filament` `MySQL` | [📂 Repo](https://github.com/blamairia/Sifco-Inv) ・ [🔴 Demo](https://sifco-inv.thankfulwave-7afe5802.germanywestcentral.azurecontainerapps.io) |
-| **[Campus Guide](https://github.com/blamairia/Campus-Guide)** | **Data Engineer**<br>• Manually mapped **5km+** of campus data.<br>• Custom vector tiles when Google Maps failed. | `JOSM` `Mapbox` `OpenStreetMap` | [📂 Repo](https://github.com/blamairia/Campus-Guide) |
+<table>
+<thead>
+  <tr>
+    <th>Project</th>
+    <th>Role & Highlights</th>
+    <th>Stack</th>
+    <th>Links</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/blamairia/schooly-v2"><strong>Schooly v2</strong></a></td>
+    <td><strong>Lead Backend Engineer</strong><br/>• Managing admins & fees for <strong>3,000+ students</strong><br/>• 20K+ payment operations/year<br/>• Complex partial payment logic</td>
+    <td><code>Laravel</code> <code>Filament</code> <code>MySQL</code> <code>Docker</code></td>
+    <td>
+      <a href="https://github.com/blamairia/schooly-v2">📂 Repo</a><br/>
+      <a href="https://schooly.blamairia.me">🔴 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blamairia/Hearline-Webapp"><strong>HeartLine AI</strong></a></td>
+    <td><strong>Full Stack & ML Engineer</strong><br/>• Master's thesis: ECG diagnosis system<br/>• <strong>94% accuracy</strong> on 5-class arrhythmia<br/>• Real-time waveform visualization</td>
+    <td><code>Flask</code> <code>TensorFlow</code> <code>ONNX</code> <code>Azure</code></td>
+    <td>
+      <a href="https://github.com/blamairia/Hearline-Webapp">📂 Repo</a><br/>
+      <a href="https://heartline.blamairia.me">🔴 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blamairia/Sifco-Inv"><strong>SIFCO Inventory</strong></a></td>
+    <td><strong>Solution Architect</strong><br/>• Freelance: factory inventory system<br/>• Delivered in <strong>30 days</strong><br/>• On-premise deployment (offline-first)</td>
+    <td><code>Laravel</code> <code>Filament</code> <code>Nginx</code> <code>Debian</code></td>
+    <td>
+      <a href="https://github.com/blamairia/Sifco-Inv">📂 Repo</a><br/>
+      <a href="https://inv.blamairia.me">🔴 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blamairia/wleaks"><strong>WLeaks IoT</strong></a></td>
+    <td><strong>IoT Developer</strong><br/>• Real-time water leak detection<br/>• <strong>3-second</strong> detection with auto pump shutoff<br/>• Arduino + Node.js + Socket.IO</td>
+    <td><code>Node.js</code> <code>Arduino</code> <code>Socket.IO</code> <code>Docker</code></td>
+    <td>
+      <a href="https://github.com/blamairia/wleaks">📂 Repo</a><br/>
+      <a href="https://wleaks.blamairia.me">🔴 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blamairia/ABC-TSP"><strong>ABC-TSP Optimizer</strong></a></td>
+    <td><strong>Algorithm Visualization</strong><br/>• Canvas-based bee colony algorithm<br/>• Solves Traveling Salesman Problem<br/>• Real-time metrics & animation</td>
+    <td><code>JavaScript</code> <code>HTML5 Canvas</code> <code>CSS</code></td>
+    <td>
+      <a href="https://github.com/blamairia/ABC-TSP">📂 Repo</a><br/>
+      <a href="https://abc-tsp.blamairia.me">🔴 Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/blamairia/Campus-Guide"><strong>Campus Guide</strong></a></td>
+    <td><strong>Data Engineer</strong><br/>• Manually mapped <strong>5km+</strong> of campus<br/>• Contributed to OpenStreetMap<br/>• Custom Mapbox GL viewer</td>
+    <td><code>JOSM</code> <code>Mapbox</code> <code>OpenStreetMap</code></td>
+    <td>
+      <a href="https://github.com/blamairia/Campus-Guide">📂 Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Virtual Visits 360°</strong></td>
+    <td><strong>Volunteer Project</strong><br/>• 360° virtual tours for <strong>3 faculties</strong><br/>• Recognized by Vice-Rectorate<br/>• Deployed on university servers</td>
+    <td><code>360° Photo</code> <code>JavaScript</code> <code>Web Dev</code></td>
+    <td>
+      <a href="https://facdr.univ-annaba.dz/wp-content/uploads/2023/07/MAP/app-files/index.html">🔴 Law</a><br/>
+      <a href="https://facll.univ-annaba.dz/wp-content/uploads/2023/07/MAP/app-files/index.html">🔴 Arts</a><br/>
+      <a href="https://www.univ-annaba.dz/wp-content/uploads/2023/07/MAP/app-files/index.html">🔴 Tech</a>
+    </td>
+  </tr>
+</tbody>
+</table>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blamairia&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=e5e7eb&icon_color=10b981&title_color=10b981&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=blamairia&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=blamairia&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=e5e7eb&icon_color=10b981&title_color=10b981&count_private=true" alt="stats graph" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blamairia&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=e5e7eb&title_color=10b981&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blamairia&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blamairia&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=e5e7eb&title_color=10b981&langs_count=8" alt="languages graph" />
-  </picture>
+
+<!-- GitHub Readme Stats - Using Anuraghazra's Vercel deployment -->
+<a href="https://github.com/blamairia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=blamairia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blamairia&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blamairia&theme=dark&hide_border=true&background=0a0a0a&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="streak stats" />
+
+<!-- GitHub Streak Stats -->
+<a href="https://github.com/blamairia">
+  <img src="https://streak-stats.demolab.com?user=blamairia&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 ---
+
+<div align="center">
+  
+  **📍 BSc Computer Science • Université Badji Mokhtar de Annaba (2020-2023)**
+  
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=100&section=footer" />
